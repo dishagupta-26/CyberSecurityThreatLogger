@@ -10,8 +10,8 @@ public class CybersecurityApp {
                     "Detected malware: virus-detected",                                  // Malware - High
                     "Server under flood-attack causing denial-of-service",               // DDoS - High
                     "Suspicious activity: multiple-login-failures detected",             // Brute Force - Medium
-                    "Ransom note detected: All files encrypted by ransomware",           // Ransomware - High
-                    "Email received: urgent-update.com",                                 // Phishing - Medium
+                    "Ransom note detected: All files encrypted by ransomware",           // No threat
+                    "Email received: urgent-update.com",                                 // No threat
                     "Executable found: unauthorized-access malware detected"             // Malware - Medium
             };
 

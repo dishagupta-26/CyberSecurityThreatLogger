@@ -12,8 +12,8 @@ public class ThreatLogger {
             String severity = calculateSeverity(type, logData);
 
             // Debugging logs
-            System.out.println("Original Type: " + type);
-            System.out.println("Original Severity: " + severity);
+            // System.out.println("Original Type: " + type);
+            // System.out.println("Original Severity: " + severity);
 
             // SQL query for inserting data
             String query = "INSERT INTO Threats (type, severity, timestamp) VALUES (?, ?, ?)";
