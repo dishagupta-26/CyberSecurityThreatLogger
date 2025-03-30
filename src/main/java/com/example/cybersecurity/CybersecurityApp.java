@@ -5,7 +5,7 @@ public class CybersecurityApp {
         try {
             // Sample log data for testing
             String[] logs = {
-                    "User clicked on a suspicious link: http://login-security-fail.com",  // Phishing - Low
+                    "User clicked on a suspicious link: https://login-security-fail.com",  // Phishing - Low
                     "Email received: password-reset-link",                                // Phishing - Medium
                     "Detected malware: virus-detected",                                  // Malware - High
                     "Server under flood-attack causing denial-of-service",               // DDoS - High
