@@ -66,8 +66,3 @@ A Java-based real-time system for detecting, logging, and analyzing cybersecurit
 3. Use the `Dashboard` module to view all logged threats:
    ```bash
    java -cp bin com.example.cybersecurity.Dashboard
-
-     
-
-
-
